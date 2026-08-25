@@ -191,25 +191,6 @@ Managing and displaying 200+ juice and beverage items through a traditional menu
 
 I developed a **dynamic digital menu** with separate interfaces for administrators and customers.
 
-```text
-                 🥤 Maruthi Cool Drinks
-                          │
-              ┌───────────┴───────────┐
-              │                       │
-              ▼                       ▼
-        👨‍💼 Admin Screen          👥 User Screen
-              │                       │
-        Manage Menu Items        Browse Digital Menu
-        Add / Update Items       Mobile-Friendly UI
-        Manage Categories        View Products
-              │                       │
-              └───────────┬───────────┘
-                          ▼
-                    Backend / API
-                          ▼
-                       Database
-```
-
 ### Key Features
 
 * 📱 Mobile-friendly digital menu
@@ -291,59 +272,11 @@ A browser extension focused on secure credential and session management for brow
 
 I enjoy working on systems where **business rules and backend architecture matter**.
 
-## 📦 Business & Inventory Systems
-
-```text
-Stock
-  ↓
-Purchase
-  ↓
-Batch
-  ↓
-Sale
-  ↓
-Allocation
-  ↓
-Ledger
-  ↓
-Reporting
-```
-
-## 🔐 Authentication Systems
-
-```text
-JWT
- ↓
-Refresh Tokens
- ↓
-Token Rotation
- ↓
-Authorization
- ↓
-Session Management
-```
-
-## 🗄️ Data-Driven Applications
-
-```text
-PostgreSQL
- ↓
-EF Core
- ↓
-LINQ
- ↓
-Transactions
- ↓
-Indexing
- ↓
-Query Optimization
-```
-
 ## ⚡ Real-Time Applications
 
 Exploring technologies and patterns involving:
 
-`SignalR` · `Real-Time Notifications` · `Live Updates` · `Event-Driven Workflows`
+`SignalR` · `Real-Time Notifications` · `Live Updates` 
 
 ---
 
@@ -367,6 +300,7 @@ Clean Architecture
 
 ### Areas of Interest
 
+* 🤖 AI & Machine Learning
 * Database transactions
 * Concurrency and locking
 * Entity relationships
