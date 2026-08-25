@@ -295,26 +295,6 @@ Exploring technologies and patterns involving:
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pandiyan-Venkatachalam&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandiyan-Venkatachalam&layout=compact&hide_border=true" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Pandiyan-Venkatachalam&hide_border=true" />
-
-</div>
-
----
-
 # 🎯 My Development Philosophy
 
 > **"Don't just make it work. Understand why it works."**
