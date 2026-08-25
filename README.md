@@ -40,8 +40,6 @@ I enjoy working on systems where **architecture, database design, business rules
 * 🧪 Automated testing
 * 🚀 System design and backend engineering
 
-> **I don't just want to make software work — I want to understand why it works.**
-
 ---
 
 # 🛠️ Tech Stack
@@ -140,21 +138,6 @@ Sale
    ↓
 Customer Ledger
 ```
-
-### Engineering Focus
-
-* Database transactions
-* FIFO inventory allocation
-* Concurrency and locking
-* Stock reservation
-* Batch-level costing
-* Landed-cost calculation
-* Ledger-based workflows
-* Auditability
-* Business-rule validation
-* Automated testing
-
----
 
 ## ☕ Kumaran Coffee Corner
 
@@ -279,24 +262,6 @@ Exploring technologies and patterns involving:
 `SignalR` · `Real-Time Notifications` · `Live Updates` 
 
 ---
-
-# 🧠 Engineering Concepts
-
-I'm particularly interested in understanding the internal behavior of the systems I build.
-
-```text
-Clean Architecture
-        ↓
-    Controllers
-        ↓
-     Services
-        ↓
-   Repositories
-        ↓
- Entity Framework Core
-        ↓
-    PostgreSQL
-```
 
 ### Areas of Interest
 
