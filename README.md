@@ -44,9 +44,9 @@ I enjoy working on systems where **architecture, database design, business rules
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Backend
+## Backend
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
@@ -55,7 +55,7 @@ I enjoy working on systems where **architecture, database design, business rules
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
 
-### Frontend
+## Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
@@ -63,25 +63,26 @@ I enjoy working on systems where **architecture, database design, business rules
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
-### Database
+## Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=databricks\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 
-### Architecture & Security
+## Architecture & Security
 
 * Clean Architecture
 * Layered Architecture
-* REST API
+* REST API Design
 * JWT Authentication
 * Refresh Token Rotation
 * Role-Based Authorization
 * Entity Framework Core
 * Repository & Service Patterns
 * Transaction Management
+* Concurrency & Data Consistency
 
-### Tools
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
@@ -91,11 +92,13 @@ I enjoy working on systems where **architecture, database design, business rules
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ## ⭐ Vinayaga Plates Management System
 
-A **transaction-driven inventory and business management system** designed around real-world stock, purchasing, sales, allocation, and accounting workflows.
+> 🚧 **Currently Developing**
+
+A **transaction-driven inventory and business management system** designed around real-world purchasing, stock, sales, allocation, and accounting workflows.
 
 ### Tech Stack
 
@@ -116,11 +119,11 @@ A **transaction-driven inventory and business management system** designed aroun
 * 🧮 Stock reservation and allocation
 * 🧪 Automated business-logic testing
 
-### Architecture
+### 🏗️ Architecture
 
 The system follows a **Clean Architecture** approach with a transaction-driven inventory model.
 
-Instead of directly modifying stock quantities, inventory changes are represented through **inventory movements**.
+Instead of directly modifying stock quantities, inventory changes are represented through **inventory movements**, allowing the system to maintain traceability and calculate reliable stock projections.
 
 ```text
 Purchase
@@ -138,14 +141,18 @@ Sale
 Customer Ledger
 ```
 
-This approach provides:
+### Engineering Focus
 
-* Traceability
-* Transaction consistency
-* FIFO allocation
-* Historical inventory tracking
-* Reliable stock projections
+* Database transactions
+* FIFO inventory allocation
+* Concurrency and locking
+* Stock reservation
+* Batch-level costing
+* Landed-cost calculation
+* Ledger-based workflows
 * Auditability
+* Business-rule validation
+* Automated testing
 
 ---
 
@@ -171,6 +178,57 @@ A full-stack business application built for managing and presenting a coffee sho
 https://kumarancoffeecorner.tech/
 
 ---
+
+## 🥤 Maruthi Cool Drinks
+
+A **mobile-friendly digital menu and management application** developed for a beverage business with **200+ juice and drink items**.
+
+The project was designed to solve the limitations of maintaining and displaying a large traditional menu, especially for mobile users.
+
+### 💡 Problem & Solution
+
+Managing and displaying 200+ juice and beverage items through a traditional menu card was difficult to maintain and inconvenient for customers to browse.
+
+I developed a **dynamic digital menu** with separate interfaces for administrators and customers.
+
+```text
+                 🥤 Maruthi Cool Drinks
+                          │
+              ┌───────────┴───────────┐
+              │                       │
+              ▼                       ▼
+        👨‍💼 Admin Screen          👥 User Screen
+              │                       │
+        Manage Menu Items        Browse Digital Menu
+        Add / Update Items       Mobile-Friendly UI
+        Manage Categories        View Products
+              │                       │
+              └───────────┬───────────┘
+                          ▼
+                    Backend / API
+                          ▼
+                       Database
+```
+
+### Key Features
+
+* 📱 Mobile-friendly digital menu
+* 🧃 200+ juice and beverage items
+* 🗂️ Dynamic menu management
+* 👨‍💼 Separate Admin interface
+* 👥 Separate User-facing interface
+* ➕ Add and manage menu items
+* 🔄 Dynamic menu updates
+* 📋 Category-based menu organization
+* 📱 Responsive UI
+* 🌐 Production deployment
+
+### 🌐 Live Website
+
+https://maruthicooldrinks.in/
+
+---
+
 
 ## ✈️ Travel Desk
 
@@ -233,7 +291,7 @@ A browser extension focused on secure credential and session management for brow
 
 I enjoy working on systems where **business rules and backend architecture matter**.
 
-### 📦 Business & Inventory Systems
+## 📦 Business & Inventory Systems
 
 ```text
 Stock
@@ -251,7 +309,7 @@ Ledger
 Reporting
 ```
 
-### 🔐 Authentication Systems
+## 🔐 Authentication Systems
 
 ```text
 JWT
@@ -265,7 +323,7 @@ Authorization
 Session Management
 ```
 
-### 🗄️ Data-Driven Applications
+## 🗄️ Data-Driven Applications
 
 ```text
 PostgreSQL
@@ -281,7 +339,7 @@ Indexing
 Query Optimization
 ```
 
-### ⚡ Real-Time Applications
+## ⚡ Real-Time Applications
 
 Exploring technologies and patterns involving:
 
@@ -330,6 +388,7 @@ Clean Architecture
 * 🧠 Advanced C# and .NET
 * 🏗️ Clean Architecture & Domain Design
 * 🗄️ Advanced PostgreSQL & SQL
+* ⚡ EF Core Performance
 * ⚛️ Advanced React & TypeScript
 * 🧪 Automated Testing
 * 🚀 System Design
@@ -376,7 +435,7 @@ I believe good software should be:
 
 I'm interested in opportunities and discussions around:
 
-**.NET Development · Backend Engineering · Full-Stack Development · AI&ML · System Design · PostgreSQL · React**
+**.NET Development · Backend Engineering · Full-Stack Development · AI & Machine Learning · System Design · PostgreSQL · React**
 
 <br/>
 
