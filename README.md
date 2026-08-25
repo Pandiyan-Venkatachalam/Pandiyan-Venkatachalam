@@ -76,7 +76,6 @@ I enjoy working on systems where **architecture, database design, business rules
 * REST API
 * JWT Authentication
 * Refresh Token Rotation
-* Keycloak
 * Role-Based Authorization
 * Entity Framework Core
 * Repository & Service Patterns
@@ -169,7 +168,7 @@ A full-stack business application built for managing and presenting a coffee sho
 
 ### 🌐 Live Website
 
-https://kumarncoffeecorner.tech
+https://kumarancoffeecorner.tech/
 
 ---
 
@@ -327,16 +326,14 @@ Clean Architecture
 
 # 📚 Currently Learning & Improving
 
+* 🤖 AI & Machine Learning
 * 🧠 Advanced C# and .NET
 * 🏗️ Clean Architecture & Domain Design
 * 🗄️ Advanced PostgreSQL & SQL
-* ⚡ EF Core performance
-* 🔐 Authentication & Authorization
 * ⚛️ Advanced React & TypeScript
 * 🧪 Automated Testing
 * 🚀 System Design
 * ☕ Java & Spring Boot
-* 🤖 AI & Machine Learning
 
 ---
 
@@ -379,7 +376,7 @@ I believe good software should be:
 
 I'm interested in opportunities and discussions around:
 
-**.NET Development · Backend Engineering · Full-Stack Development · System Design · PostgreSQL · React**
+**.NET Development · Backend Engineering · Full-Stack Development · AI&ML · System Design · PostgreSQL · React**
 
 <br/>
 
