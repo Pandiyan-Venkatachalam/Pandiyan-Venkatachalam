@@ -16,6 +16,10 @@ Building **scalable backend systems, modern web applications, and business-focus
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+<a href="https://pandiyan-v-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
 </div>
 
 ---
@@ -139,6 +143,8 @@ Sale
 Customer Ledger
 ```
 
+---
+
 ## ☕ Kumaran Coffee Corner
 
 A full-stack business application built for managing and presenting a coffee shop's products and services through a modern web experience.
@@ -192,7 +198,6 @@ I developed a **dynamic digital menu** with separate interfaces for administrato
 https://maruthicooldrinks.in/
 
 ---
-
 
 ## ✈️ Travel Desk
 
@@ -259,25 +264,23 @@ I enjoy working on systems where **business rules and backend architecture matte
 
 Exploring technologies and patterns involving:
 
-`SignalR` · `Real-Time Notifications` · `Live Updates` 
-
----
+`SignalR` · `Real-Time Notifications` · `Live Updates`
 
 ### Areas of Interest
 
 * 🤖 AI & Machine Learning
-* Database transactions
-* Concurrency and locking
-* Entity relationships
-* Query performance
-* Database indexing
-* FIFO inventory allocation
-* Ledger-based systems
-* Domain and business rules
-* REST API design
-* Authentication & authorization
-* Automated testing
-* System design
+* 🗄️ Database transactions
+* 🔒 Concurrency and locking
+* 🔗 Entity relationships
+* ⚡ Query performance
+* 📇 Database indexing
+* 📦 FIFO inventory allocation
+* 💰 Ledger-based systems
+* 🧠 Domain and business rules
+* 🔌 REST API design
+* 🔐 Authentication & authorization
+* 🧪 Automated testing
+* 🏗️ System design
 
 ---
 
@@ -320,6 +323,10 @@ I'm interested in opportunities and discussions around:
 
 <div align="center">
 
+<a href="https://pandiyan-v-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
 <a href="https://www.linkedin.com/in/pandiyan-fsd">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -332,6 +339,6 @@ I'm interested in opportunities and discussions around:
 
 **Thanks for visiting my profile! 👋**
 
-⭐ Feel free to explore my repositories and projects.
+⭐ Feel free to explore my repositories, projects, and portfolio.
 
 </div>
